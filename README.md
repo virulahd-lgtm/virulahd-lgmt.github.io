@@ -21,6 +21,21 @@ I would use an API to track popular movie genres and then overlay that with a ti
 
 This was my first time building a website it was very straight forward, the video was very helpful. This was a very cool project and I will be building another one to connect it to my linkedin. I would say the ionterface is confusing without the video and it would have taken my much longer to do with out it. I really like both of my ideas from class but it took me a while to find the last one. I wanted to do something that isnt related to the other two, but still somehting I would find fun and engaging. The resource can in the form of my friend that brought up a movie we had just watched and it sparked the idea in my head. It took me roughly 40 minutes to do this project, but I feel like I learned a valuable and applicable skill.
 
-# Week 10 Update
+## Week 10 Update
 
 As of now the first idea relating to the stock market seems the most interesting to me, and more than likely the path I will follow. I have been talking with Nathan Nemali on working on this together, but as of now nothing is solidified. I looked into a yahoo finance api to use for this project and it is a viable option i didnt see anything wrong with it, another option is the api I used for this weeks mini project. The API is from alpha vantage and I really enjoyed working with it. The only draw back is that the data is subject to be up to 15 minutes behind real market data. The three big questions I have are which stocks are most affected by interest rate and inflation rate changes, which sector is the least volatile and which stocks have seen the greatest YTD change since the current presiden took office.
+
+
+<iframe
+  src="Alaska_destinations_delays.html"
+  width="100%"
+  height="600"
+  frameborder="0">
+</iframe>
+
+## Week 11 Update
+
+
+I found three datasets that I could possibly use I got two of them from the federal reserve of St Louis and the other from Yahoo finance.I want to use these in order to analyze market volitilty based on both of these variables. The two that come from FRED are inflation and interest rate data from the USA, it was very easy to find this as I have worked with FRED throughout my entire college career. The data is very easy to sort and is very trust worthy. The Yahoo dataset took me more time to figure out, I couldn't find a download page for any of the stocks or sectors. After a while I did a web search to figure it out. From this I found out I can download a yahoo library to python which allows me to pull real time data and historic datasets. An important consideration is that the datasets can be in different frequencies, so standarizing them before beginning the project is very important or the results will not be coherent. One major strength is that all three datasets are very trustworthy and accurate, and most important unbiased which will make my results more accurate. Currently I am learning how to use the yfinance library in python and trying to find a time of high volatility for inflation and interest rate to see how markets react at the extremes. I think the biggest challange will be dealing with different ways to write the date or values, and possible dealing with missing values to be able to standarize the data.
+
+
