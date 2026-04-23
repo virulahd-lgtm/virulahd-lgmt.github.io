@@ -38,4 +38,13 @@ As of now the first idea relating to the stock market seems the most interesting
 
 I found three datasets that I could possibly use I got two of them from the federal reserve of St Louis and the other from Yahoo finance.I want to use these in order to analyze market volitilty based on both of these variables. The two that come from FRED are inflation and interest rate data from the USA, it was very easy to find this as I have worked with FRED throughout my entire college career. The data is very easy to sort and is very trust worthy. The Yahoo dataset took me more time to figure out, I couldn't find a download page for any of the stocks or sectors. After a while I did a web search to figure it out. From this I found out I can download a yahoo library to python which allows me to pull real time data and historic datasets. An important consideration is that the datasets can be in different frequencies, so standarizing them before beginning the project is very important or the results will not be coherent. One major strength is that all three datasets are very trustworthy and accurate, and most important unbiased which will make my results more accurate. Currently I am learning how to use the yfinance library in python and trying to find a time of high volatility for inflation and interest rate to see how markets react at the extremes. I think the biggest challange will be dealing with different ways to write the date or values, and possible dealing with missing values to be able to standarize the data.
 
+## Week 12 Update
+
+<iframe
+  src="Sector_Correlation_Matrix.html"
+  width="100%"
+  height="600"
+  frameborder="0">
+</iframe>
+
 
