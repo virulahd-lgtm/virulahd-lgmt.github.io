@@ -41,7 +41,7 @@ I found three datasets that I could possibly use I got two of them from the fede
 ## Week 12 Update
 
 <iframe
-  src="Sector_Correlation_Matrix.html"
+  src="plots/Sector_Correlation_Matrix.html"
   width="100%"
   height="600"
   frameborder="0">
