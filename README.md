@@ -47,4 +47,4 @@ I found three datasets that I could possibly use I got two of them from the fede
   frameborder="0">
 </iframe>
 
-
+The graph above is a correlation heat map of S&P 500 sectors and inflation and interest rate. This helps with my understanding of which sectors are the most volitile in relation to interest rate and inflation. From here I'll be able to take a deeper dive into these sectors and find why they are more sentative to the volitility of the rates. I also spent sometime finding the the historic times that rates changed, then I found the same time realting to the market to find price changes.
