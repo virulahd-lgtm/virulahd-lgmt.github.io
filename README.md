@@ -48,3 +48,14 @@ I found three datasets that I could possibly use I got two of them from the fede
 </iframe>
 
 The graph above is a correlation heat map of S&P 500 sectors and inflation and interest rate. This helps with my understanding of which sectors are the most volitile in relation to interest rate and inflation. From here I'll be able to take a deeper dive into these sectors and find why they are more sentative to the volitility of the rates. I also spent sometime finding the the historic times that rates changed, then I found the same time realting to the market to find price changes.
+
+## Mini Project 5
+
+<iframe
+  src="map.html"
+  width="100%"
+  height="600"
+  frameborder="0">
+</iframe>
+
+In this project I wanted to see how close and far Professor Wirth-Brock came to my favorite pizza restuarant in town, Sweet Basil. Before I coded the map, I used the Haversine equation to deduce that my professor came to 36 feet of Sweet basil, at 1:05pm. Looking at the map this tracks as it looks like the professor checked out downtown Walla Walla and either ate at the restuarant or ate at a near by location. All of this tracks as anyone would try to explore a town to call home at the time. The farthest my professor was to Sweet basil was 811 miles looking at that map that roughly tracks as there are points near Denver, Colorado which is near to the old home of the professor.
