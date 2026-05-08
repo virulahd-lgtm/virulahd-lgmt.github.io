@@ -59,3 +59,7 @@ The graph above is a correlation heat map of S&P 500 sectors and inflation and i
 </iframe>
 
 In this project I wanted to see how close and far Professor Wirth-Brock came to my favorite pizza restuarant in town, Sweet Basil. Before I coded the map, I used the Haversine equation to deduce that my professor came to 36 feet of Sweet basil, at 1:05pm. Looking at the map this tracks as it looks like the professor checked out downtown Walla Walla and either ate at the restuarant or ate at a near by location. All of this tracks as anyone would try to explore a town to call home at the time. The farthest my professor was to Sweet basil was 811 miles looking at that map that roughly tracks as there are points near Denver, Colorado which is near to the old home of the professor.
+
+### Week 14 Update
+
+Currently in our project we have throughly analyzed the data and have found results to our main question. we are at the point were we are looking at new question as ways to tell the story. Our new technique at the moment is a bubble graph which uses 3 variables on a 2d graph. Nathan took the time to investigate the new technique and I plan on finding one that can help us tell the story and our findings in a cleaner manner, I am think something along the lines as a timeline or network graph. From this we will present basic information on economics, so a larger audience can understand our work. At the moment we dont know if we are only going to use a webpage or slides to communicate our project.
